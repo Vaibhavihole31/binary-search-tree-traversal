@@ -1,4 +1,4 @@
-**In-order Traversal:**
+# In-order Traversal:
 
 In in-order traversal, we follow a specific order to visit the nodes of a binary tree. We start by visiting the left subtree, then the current node, and finally the right subtree. Imagine you are exploring a tree from the left side, moving towards the right side. For each node, you first visit all the nodes in its left subtree, then visit the current node, and lastly visit all the nodes in its right subtree. In simple terms, you visit the left side first, then the current node, and finally the right side. In a binary search tree, the in-order traversal will give you the nodes in ascending order.
 

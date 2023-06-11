@@ -1,3 +1,16 @@
+## Post-order Traversal:
+
+In post-order traversal, we once again follow a specific order to visit the nodes of a binary tree. This time, we start by visiting the left subtree, then the right subtree, and finally the current node. Imagine you are exploring a tree from the bottom up. For each node, you first visit all the nodes in its left subtree, then visit all the nodes in its right subtree, and lastly visit the current node. In simple terms, you visit the left side first, then the right side, and finally the current node.
+
+```
+        4
+       / \
+      2   6
+     / \ / \
+    1  3 5  7
+
+```
+
 **Post-order traversal: 1, 3, 2, 5, 7, 6, 4**
 
 Let's go through each traversal to see how the nodes are visited:

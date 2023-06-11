@@ -1,5 +1,4 @@
-
-**Pre-order Traversal:**
+## Pre-order Traversal:
 
 In pre-order traversal, we also follow a specific order to visit the nodes of a binary tree. Here, we start by visiting the current node first, then the left subtree, and finally the right subtree. Imagine you are exploring a tree starting from the root node and moving towards the lower levels. For each node, you first visit the current node, then visit all the nodes in its left subtree, and lastly visit all the nodes in its right subtree. In simple terms, you visit the current node first, then the left side, and finally the right side.
 
